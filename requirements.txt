@@ -1,2 +1,7 @@
 Flask
 gunicorn
+pandas
+matplotlib
+bokeh
+numpy
+nltk
